@@ -41,7 +41,7 @@ header nav a:hover{
     color: #fff;
 }
 
-/******* Filmes Principal ******/
+/******* Filmes Principal *******/
 .filme-principal{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/netflix/img/capa-suits.jpeg');
